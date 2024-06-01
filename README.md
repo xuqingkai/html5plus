@@ -1,1 +1,2 @@
-# my.h5
+# html5plus runtime
+https://www.dcloud.io/runtime.html
